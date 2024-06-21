@@ -93,3 +93,9 @@ with open('video_info.txt', 'w', encoding='utf-8') as output_file:
 
 logging.info("Video information has been saved to video_info.txt")
 logging.info(f"Total videos found: {len(video_info)}")
+
+
+## Reference:
+
+https://github.com/ni6hant/youtubevideolinksextractor/blob/main/videos.py
+
